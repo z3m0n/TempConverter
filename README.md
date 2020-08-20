@@ -1,3 +1,4 @@
-# TempConverter is hosted at:
+# TempConverter 
 
-https://z3m0n.github.io
+Repo: https://github.com/z3m0n/z3m0n.github.io
+Web: https://z3m0n.github.io
